@@ -79,6 +79,7 @@ def main
   $model = create_model
 
   Document.write(<<-EOS)
+<a href="https://github.com/unagiootoro/judge-number">Go to github</a><br>
 <canvas id="draw" width=256 height=256></canvas>
 <button id="judge">Judge</button>
 <button id="clear">Clear</button>
