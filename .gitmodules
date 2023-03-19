@@ -1,0 +1,3 @@
+[submodule "ruby-dnn"]
+	path = ruby-dnn
+	url = https://github.com/unagiootoro/ruby-dnn
